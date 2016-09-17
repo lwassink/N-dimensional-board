@@ -6,7 +6,7 @@
 #
 
 
-class Board
+class NBoard
   attr_reader :data
 
   # the board can be n-dimensional
